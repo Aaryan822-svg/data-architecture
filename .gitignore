@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+*.ipynb
+customers_raw csv.txt
+customer_raw.csv
+customer_raw.csv
+HOST="127.0.0.1"
+USER="root"
+PASSWORD="Aaryu@123"
+NAME="fleximart"
+PORT="3302"
